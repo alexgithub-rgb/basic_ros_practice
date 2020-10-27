@@ -1,0 +1,7 @@
+<launch>
+  <node name='input' pkg='test1' type='input.py'>
+    <param name='id1' value='10'/>
+    <param name='height' value='177'/>
+    <param name='weight' value='82'/>
+  </node>
+</launch>
